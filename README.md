@@ -1,2 +1,2 @@
 # ANN-on-Digits-MNIST-Dataset
-In my project, I have implemented an Artificial Neural Network (ANN) to classify handwritten digits from the MNIST dataset. 
+In my project, I have implemented an Artificial Neural Network (ANN) to classify handwritten digits from the MNIST dataset. The ANN was designed to recognize and categorize digit images by learning from a large set of labeled examples. The network's architecture included multiple layers, such as input, hidden, and output layers, enabling it to capture complex patterns and features within the images. By training the ANN on the MNIST dataset, I was able to achieve high accuracy in digit classification, demonstrating the effectiveness of neural networks in handling image recognition tasks and pattern learning.
